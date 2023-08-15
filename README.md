@@ -8,8 +8,13 @@ Hence, it's crucial to strike the right balance in pricing. Setting the price to
 
 # Content
 1.The data contains the demand and corresponding average unit price at a product - month_year level
+
 2.Tasks
+
 3.Exploratory data analysis
+
 4.Data visualization
+
 5.Demand forecasting
+
 6.Price optimization
